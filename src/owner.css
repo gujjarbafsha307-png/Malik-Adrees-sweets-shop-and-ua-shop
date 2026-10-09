@@ -1,0 +1,2 @@
+.shared-locations{margin-top:13px}.shared-locations>a{display:flex;align-items:center;gap:12px;padding:10px 0;border-top:1px solid var(--line);color:var(--green)}.shared-locations>a>span:first-child{display:grid;gap:4px}.shared-locations>a strong{font-size:10px;color:var(--ink)}.shared-locations>a small,.shared-coordinates{font-size:9px;color:var(--muted)}.shared-coordinates{margin-inline-start:auto;text-align:end}
+.sales-bars{display:none}
